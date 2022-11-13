@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chithralekhamp" alt="chithralekhamp" /></a> </p>
 
-- I'm currently working on.. [stack-python](stack-python)
+- I'm currently working on..Java
 
-- I'm learning... **Learning How to Learn**
+- I'm learning... **Java Programming**
 
-- 👯 I’m looking to collaborate on [stack-python](stack-python)
+- 👯 I’m looking to collaborate on Inmakes InfoTech Pvt
 
 - 📫 How to reach me **2002chithralekha@gmail.com**
 
