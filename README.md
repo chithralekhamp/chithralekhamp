@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on Inmakes InfoTech Pvt
 
-- 📫 How to reach me **2002chithralekha@gmail.com**
+- 📫 How to reach me **chithralekha.cmp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
