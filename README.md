@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHITHRALEKHA.M.P</h1>
+<h1 align="center">Hi 👋, I'm Chithralekha M P</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chithralekhamp&label=Profile%20views&color=0e75b6&style=flat" alt="chithralekhamp" /> </p>
