@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chithralekhamp" alt="chithralekhamp" /></a> </p>
 
-- I'm currently working on..Java
+- I'm currently working as QA intern @ µLearn
 
-- I'm learning... **Java Programming**
+- Interested to Learn something new.. 
 
-- 👯 I’m looking to collaborate on Inmakes InfoTech Pvt
+- 👯 I’m looking to collaborate on Projects
 
 - 📫 How to reach me **chithralekha.cmp@gmail.com**
 
