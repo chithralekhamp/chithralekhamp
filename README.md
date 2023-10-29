@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chithralekhamp/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Flinkedin-logo-2430.html&psig=AOvVaw1x9jaZmYInsR0tYTPWSvBh&ust=1698671644237000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD7uZGrm4IDFQAAAAAdAAAAABAI" alt="https://www.linkedin.com/in/chithralekhamp/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chithralekhamp/" target="blank"><img align="center" src="LinkedIn_icon svg(https://github.com/chithralekhamp/chithralekhamp/assets/82331436/95e92eaa-7a2d-4531-ab2f-8b8cbe05a698) " 
+alt="https://www.linkedin.com/in/chithralekhamp/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
