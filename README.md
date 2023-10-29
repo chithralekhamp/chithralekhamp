@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chithralekhamp/" target="blank"><img align="center" src="LinkedIn_icon.png" 
-
-alt="https://www.linkedin.com/in/chithralekhamp/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chithralekhamp/" target="blank"><img align="center" src="LinkedIn_icon.png" alt="https://www.linkedin.com/in/chithralekhamp/" height="40" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
