@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chithralekhamp" alt="chithralekhamp" /></a> </p>
 
-- I'm currently working as QA intern @ µLearn
+- I'm currently working as QA intern @ Metadome.ai
 
 - Interested to Learn something new.. 
 
