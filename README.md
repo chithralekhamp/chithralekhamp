@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chithralekhamp" alt="chithralekhamp" /></a> </p>
 
-- I'm currently working as QA intern @ Metadome.ai
+- I'm currently working on UAV project. FPV drone building.
+  
+- Have a work experience in Metadome.ai and Mulearn as QA intern.
 
-- Interested to Learn something new.. 
+- Interested to Learn something new.. Lifelong learner... Always eager to know more about things that most influenced on me.
 
-- 👯 I’m looking to collaborate on Projects
+- 👯 I’m always interested to collaborate with people who were interested and willing to work together.
 
 - 📫 How to reach me **chithralekha.cmp@gmail.com**
 
